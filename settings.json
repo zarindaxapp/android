@@ -1,1 +1,46 @@
-
+{
+  "IS_SERVICE_AVAILABLE": true,
+  "FETCH_INTERVALS": {
+    "ORDERS": 15000,
+    "TRADES": 15000,
+    "WALLETS": 15000,
+    "TOKENS": 15000,
+    "TRANSACTIONS": 15000,
+    "PROFILE": 60000,
+    "NOTIFICATIONS": 60000,
+    "BANK_ACCOUNT": 120000
+  },
+  "REQUESTS_TIMEOUT": 20000,
+  "GLOBAL_CHART_ENABLED": true,
+  "SUPPORT_CHAT_ENABLED": true,
+  "CONVERT_BALANCES_ENABLED": true,
+  "SUPPORT_CHAT_URL": "",
+  "MARKETS": [
+    {
+      "name": "google play",
+      "appUrl": "",
+      "imageUrl": "https://api.exnovin.io/static-contents/images/icons/GOOGLE-PLAY.png"
+    },
+    {
+      "name": "bazaar",
+      "appUrl": "",
+      "imageUrl": "https://api.exnovin.io/static-contents/images/icons/BAZAAR.png"
+    },
+    {
+      "name": "direct",
+      "appUrl": "",
+      "imageUrl": "https://api.exnovin.io/static-contents/images/icons/DIRECT.png"
+    }
+  ],
+  "GOOGLE_OAUTH_CLIENT_ID": "615446330225-kr64kdk54tmoh22eqn13d382dnpges5e.apps.googleusercontent.com",
+  "API_URL": "https://api.zarindax.ir",
+  "WS_URL": "https://ws.zarindax.ir",
+  "ALT_API_URL": "https://api.zarindax.com",
+  "ALT_WS_URL": "https://ws.zarindax.com",
+  "BASE_URL": "https://demo.zarindax.com",
+  "TERMS_PATH": "/privacy-policy",
+  "FEES_PATH": "/fee",
+  "LEVELS_PATH": "/user-level",
+  "REFERRAL_PATH": "/referral",
+  "ETF_PATH": "/etf"
+}
