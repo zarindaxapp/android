@@ -14,6 +14,7 @@
   "GLOBAL_CHART_ENABLED": true,
   "SUPPORT_CHAT_ENABLED": true,
   "CONVERT_BALANCES_ENABLED": true,
+  "SHOW_ZARINDAX_NEWS": true,
   "SUPPORT_CHAT_URL": "",
   "MARKETS": [
     {
