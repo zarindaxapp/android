@@ -38,7 +38,7 @@
   "WS_URL": "https://ws.zarindax.ir",
   "ALT_API_URL": "https://api.zarindax.com",
   "ALT_WS_URL": "https://ws.zarindax.com",
-  "BASE_URL": "https://demo.zarindax.com",
+  "BASE_URL": "https://zarindax.com",
   "TERMS_PATH": "/privacy-policy",
   "FEES_PATH": "/fee",
   "LEVELS_PATH": "/user-level",
