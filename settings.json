@@ -38,10 +38,11 @@
   "WS_URL": "https://ws.zarindax.ir",
   "ALT_API_URL": "https://api.zarindax.com",
   "ALT_WS_URL": "https://ws.zarindax.com",
-  "BASE_URL": "https://zarindax.com",
+  "LANDING_BASE_URL": "https://zarindax.com",
+  "PLATFORM_BASE_URL": "https://trade.zarindax.com",
   "TERMS_PATH": "/privacy-policy",
   "FEES_PATH": "/fee",
   "LEVELS_PATH": "/user-level",
-  "REFERRAL_PATH": "/referral",
-  "ETF_PATH": "/etf"
+  "LOGIN_PATH": "/user/auth/login",
+  "REFERRAL_PATH": "/referral"
 }
